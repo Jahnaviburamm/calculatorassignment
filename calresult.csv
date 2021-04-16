@@ -1,9 +1,0 @@
-
-1618570257400,674,ADDHTTP Request,200,OK,Soap Request 1-2,text,true,,586,434,2,2,http://www.dneonline.com/calculator.asmx,674,0,302
-1618570257022,746,ADDHTTP Request,200,OK,Soap Request 1-1,text,true,,586,434,2,2,http://www.dneonline.com/calculator.asmx,745,0,426
-1618570258091,311,SUBHTTP Request,200,OK,Soap Request 1-1,text,true,,585,444,2,2,http://www.dneonline.com/calculator.asmx,311,0,0
-1618570258091,329,SUBHTTP Request,200,OK,Soap Request 1-2,text,true,,585,444,2,2,http://www.dneonline.com/calculator.asmx,329,0,0
-1618570258406,314,MULHTTP Request,200,OK,Soap Request 1-1,text,true,,585,445,2,2,http://www.dneonline.com/calculator.asmx,314,0,0
-1618570258423,313,MULHTTP Request,200,OK,Soap Request 1-2,text,true,,585,445,2,2,http://www.dneonline.com/calculator.asmx,313,0,0
-1618570258722,299,DIVHTTP Request,200,OK,Soap Request 1-1,text,true,,585,440,2,2,http://www.dneonline.com/calculator.asmx,299,0,0
-1618570258738,323,DIVHTTP Request,200,OK,Soap Request 1-2,text,true,,585,440,1,1,http://www.dneonline.com/calculator.asmx,323,0,0
